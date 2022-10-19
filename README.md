@@ -18,20 +18,20 @@ The water quality engine calculates the transport and transformation of the wate
 
 Water quality computations are fully integrated in the HEC-ResSim software. This enables water quality objectives to be incorporated in the reservoir release decision process. During a water quality simulation, data will be exchanged between the water quality engine, water quality libraries, and the HEC-ResSim user interface and decision engine.
 
-Figure 1. HEC-ResSim program and user interface.
 ![](images/HEC-ResSim_GUI.png)
+Figure 1. HEC-ResSim program and user interface.
 
-Figure 2. Representation of one-dimensional (1D) reservoirs in HEC-ResSim-WQ.
 ![](images/1D_Reservoir.png)
+Figure 2. Representation of one-dimensional (1D) reservoirs in HEC-ResSim-WQ.
 
-Figure 3. Representation of one-dimensional (1D) river reaches in HEC-ResSim-WQ.
 ![](images/1D_Reach.png)
+Figure 3. Representation of one-dimensional (1D) river reaches in HEC-ResSim-WQ.
 
-Figure 4. HEC-ResSim Water Quality user interface.
 ![](ResSim-WQ_user_interface.png)
+Figure 4. HEC-ResSim Water Quality user interface.
 
-Figure 5. HEC-ResSim-WQ model of the Upper Sacramento River.
 ![](images/ResSim-WQ_Upper_Sacramento_River.png)
+Figure 5. HEC-ResSim-WQ model of the Upper Sacramento River.
 
-Figure 6. HEC-ResSim-WQ model of the Russian River.
 ![](images/ResSim-WQ_Russian_River.png)
+Figure 6. HEC-ResSim-WQ model of the Russian River.
