@@ -30,7 +30,7 @@ Figure 2. Representation of one-dimensional (1D) reservoirs in HEC-ResSim-WQ.
 
 Figure 3. Representation of one-dimensional (1D) river reaches in HEC-ResSim-WQ.
 
-![](ResSim-WQ_user_interface.png)
+![](images/ResSim-WQ_user_interface.png)
 
 Figure 4. HEC-ResSim Water Quality user interface.
 
